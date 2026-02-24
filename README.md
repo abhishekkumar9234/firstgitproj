@@ -1,4 +1,4 @@
 # firstgitproj
 This is my first Git Repository
 <br>
-Author-Prince sinha
+Author-Prince sinha(for git hub)
